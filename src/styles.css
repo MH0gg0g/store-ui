@@ -1,1 +1,4 @@
-/* You can add global styles to this file, and also import other style files */
+/* Global minor overrides for Bootstrap */
+body { background: #f8f9fa; }
+.jumbotron { background: linear-gradient(180deg,#fff,#f1f3f5); }
+
