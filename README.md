@@ -1,5 +1,9 @@
 # StoreUi
 
+<img width="1365" height="620" alt="store-ui" src="https://github.com/user-attachments/assets/6f86ec21-6b64-4f62-b3b8-245657745a55" />
+
+
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.2.
 
 ## Development server
@@ -15,6 +19,7 @@ Once the server is running, open your browser and navigate to `http://localhost:
 ## Code scaffolding
 
 Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+<img width="1365" height="620" alt="store-ui" src="https://github.com/user-attachments/assets/d2a1108f-aae5-49b2-9285-681a5deaf289" />
 
 ```bash
 ng generate component component-name
